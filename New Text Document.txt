@@ -1,3 +1,3 @@
-print ("Hello World")
-print ("Juventus - Atletico 4-0")
-print ("Juventus - Ajax 3-1")
+print ("Hello World.")
+print ("Juventus - Atletico 4-0.")
+print ("Juventus - Ajax 3-1.")
